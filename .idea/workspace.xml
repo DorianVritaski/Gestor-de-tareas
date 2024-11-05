@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3deabdb-35f1-4108-9c7e-94a6fa2b4988" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GestorTareas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/gestor_tareas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vista/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_gestor_tareas.py" afterDir="false" />
+    <list default="true" id="a3deabdb-35f1-4108-9c7e-94a6fa2b4988" name="Changes" comment="inicio de proyecto: gestor de tareas actualizacion">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/gestor_tareas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vista/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_gestor_tareas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/gestorTareas",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Periodo 2024-20/Construccion de Software/semana 12/Proyectos/GestorTareas"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Proyectos\GestorTareas" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="GestorTareas" />
@@ -73,7 +75,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -86,6 +88,28 @@
       <option name="presentableId" value="Default" />
       <updated>1730755574627</updated>
     </task>
+    <task id="LOCAL-00001" summary="inicio de proyecto: gestor de tareas">
+      <option name="closed" value="true" />
+      <created>1730767978971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730767978971</updated>
+    </task>
+    <task id="LOCAL-00002" summary="inicio de proyecto: gestor de tareas actualizacion">
+      <option name="closed" value="true" />
+      <created>1730768063273</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730768063273</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inicio de proyecto: gestor de tareas" />
+    <MESSAGE value="inicio de proyecto: gestor de tareas actualizacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="inicio de proyecto: gestor de tareas actualizacion" />
   </component>
 </project>
